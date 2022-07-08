@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ujjawala Katakwar
-- 🌱 I’m currently learning python and web development as I am willing to switch technology to python ,currently a mainframe developer.
+- 🌱 I’m currently learning python and web development as I am willing to switch technology to python ,currently a mainframe developer,Please refer my repositories to view the projects I have worked on Python.
 - 📫 best way to contact me is through my email ujjawala1501@gmail.com
 
 <!---
