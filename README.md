@@ -1,9 +1,9 @@
 # 💫 About Me:
 <p>🌟 I am currently learning <strong>Java Full Stack Development</strong> to expand my skill set.</p>
-<p>💻 I have a solid foundation in <strong>Python</strong>, with experience in <strong>Django</strong>, <strong>NumPy</strong>, and <strong>Pandas</strong>.</p>
+<p>💻 I have a solid foundation in <strong>Python</strong>, with experience in <strong>Django</strong>, <strong>NumPy</strong>,  <strong>Pandas</strong>, and <strong>SQL</strong>,.</p>
 <p>🚀 I am actively seeking job opportunities where I can contribute and grow.</p>
 <p>☁️ I have a keen interest in <strong>AWS services</strong> and their applications in modern development.</p>
-<p>🐳 Additionally, I possess experience with <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>OpenShift</strong>, and <strong>SQL</strong>, which enhances my ability to work in cloud-native environments.</p>
+<p>🐳 Additionally, I possess experience with <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>OpenShift</strong> which enhances my ability to work in cloud-native environments.</p>
 
 
 ## 🌐 Socials:
