@@ -1,9 +1,15 @@
 # 💫 About Me:
-<p>🌟 I am currently learning <strong>Java Full Stack Development</strong> to expand my skill set.</p>
-<p>💻 I have a solid foundation in <strong>Python</strong>, with experience in <strong>Django</strong>, <strong>NumPy</strong>,  <strong>Pandas</strong>, and <strong>SQL</strong>,.</p>
-<p>🚀 I am actively seeking job opportunities where I can contribute and grow.</p>
-<p>☁️ I have a keen interest in <strong>AWS services</strong> and their applications in modern development.</p>
-<p>🐳 Additionally, I possess experience with <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>OpenShift</strong> which enhances my ability to work in cloud-native environments.</p>
+<p>🛠️ I am a DevOps Engineer with hands-on experience in automating infrastructure and deployments using <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>Terraform</strong>, <strong>Ansible</strong>, and <strong>Jenkins</strong>.</p>
+
+<p>☁️ I work extensively with <strong>AWS services</strong> to build scalable and secure cloud-based solutions that align with modern DevOps practices.</p>
+
+<p>🐧 Proficient in <strong>Linux</strong> system administration, I ensure robust CI/CD pipelines, environment provisioning, and efficient system monitoring.</p>
+
+<p>📦 I have experience working with <strong>OpenShift</strong> for container orchestration in enterprise environments, enhancing cloud-native application delivery.</p>
+
+<p>💻 I also have a solid foundation in <strong>Python</strong>, with experience in <strong>Django</strong>, <strong>NumPy</strong>, <strong>Pandas</strong>, and <strong>SQL</strong>, which supports scripting and automation tasks.</p>
+
+<p>🚀 I am actively seeking opportunities where I can contribute to innovative DevOps initiatives and continue expanding my skills.</p>
 
 
 ## 🌐 Socials:
